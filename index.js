@@ -1,5 +1,5 @@
 
-const url = "http://192.168.17.129:8000/api/products";
+const url = "http://159.203.43.147:8000/api/products";
 const contenedor = document.querySelector('tbody');
 
 const modalProducto = new bootstrap.Modal(document.getElementById('modalProducto'));
